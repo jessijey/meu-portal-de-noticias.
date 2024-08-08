@@ -60,6 +60,7 @@ section h2,
 .articles article h3 {
     margin-top: 8px;
     margin-bottom: 8px;
+    text-align: center;
 }
 
 .articles article a {
@@ -90,7 +91,7 @@ section h2 {
 }
 
 #Esportes {
-    background-color: rgba(0, 0, 0, 0.250);
+    background-color: rgba(0, 0, 0, 0.295);
 }
 
 #Esportes .articles article a {
