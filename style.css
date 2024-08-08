@@ -40,7 +40,6 @@ header li a {
 }
 
 .articles article img {
-    /*height: 180px; */
     width: 180px;
 }
 
@@ -91,7 +90,7 @@ section h2 {
 }
 
 #Esportes {
-    background-color: rgba(0, 0, 0, 0.295);
+    background-color: rgba(0, 0, 0, 0.395);
 }
 
 #Esportes .articles article a {
